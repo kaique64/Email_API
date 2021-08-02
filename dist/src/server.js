@@ -8,5 +8,5 @@ var app_1 = __importDefault(require("./app"));
 dotenv_1.config();
 var port = process.env.PORT || 5001;
 app_1.default.listen(port, function () {
-    console.log('Server is running on port http://localhost:5000');
+    console.log('Server is running');
 });
