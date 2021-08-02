@@ -1,2 +1,7 @@
 node_modules
 .env
+__tests__
+.eslintrc.json
+.prettierrc
+jest.config.ts
+.editorconfig
